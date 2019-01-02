@@ -1,19 +1,19 @@
 {
-auto_complete_cycle: true,
-auto_complete_delay: 10,
-caret_style: solid,
-color_scheme: Packages/Dayle Rees Color Schemes/legacy/Keen.tmTheme,
-drag_text: false,
-font_size: 13,
-ignored_packages:
-[
-Vintage
-],
-line_padding_bottom: 0.5,
-line_padding_top: 0.5,
-scroll_past_end: true,
-show_errors_inline: false,
-theme: Seti.sublime-theme,
-translate_tabs_to_spaces: true
+	"auto_complete_cycle": true,
+	"auto_complete_delay": 10,
+	"caret_style": "solid",
+	"color_scheme": "Packages/Dayle Rees Color Schemes/legacy/Keen.tmTheme",
+	"drag_text": false,
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 0.5,
+	"line_padding_top": 0.5,
+	"scroll_past_end": true,
+	"show_errors_inline": false,
+	"theme": "Seti.sublime-theme",
+	"translate_tabs_to_spaces": true
 }
 
